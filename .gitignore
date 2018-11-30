@@ -1,0 +1,8 @@
+.*
+!/.gitignore
+*.pyc
+src/__pycache__
+*.zip
+data/
+experiments/
+libs/
